@@ -30,4 +30,8 @@ public class SpringDemoApplicationTests {
 	@Test
 	public void change1() {
 	}
+	
+	@Test
+	public void change3() {
+	}	
 }
