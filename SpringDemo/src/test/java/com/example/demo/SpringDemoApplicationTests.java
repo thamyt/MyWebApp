@@ -13,4 +13,7 @@ public class SpringDemoApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void Test1() {
+	}
 }
