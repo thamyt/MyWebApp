@@ -16,4 +16,11 @@ public class SpringDemoApplicationTests {
 	@Test
 	public void Test1() {
 	}
+	@Test
+	public void test2() {
+	}
+	
+	@Test
+	public void test3() {
+	}
 }
