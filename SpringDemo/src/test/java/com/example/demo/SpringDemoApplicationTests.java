@@ -21,6 +21,6 @@ public class SpringDemoApplicationTests {
 	}
 	
 	@Test
-	public void test3() {
+	public void loaddata() {
 	}
 }
