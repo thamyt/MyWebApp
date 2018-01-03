@@ -24,4 +24,8 @@ public class SpringDemoApplicationTests {
 	@Test
 	public void purgedata123() {
 	}
+	
+	@Test
+	public void change3() {
+	}	
 }
