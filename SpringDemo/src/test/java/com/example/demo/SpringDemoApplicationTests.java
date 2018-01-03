@@ -22,6 +22,6 @@ public class SpringDemoApplicationTests {
 	}
 	
 	@Test
-	public void purgedata() {
+	public void purgedata123() {
 	}
 }
